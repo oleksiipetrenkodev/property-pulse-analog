@@ -40,7 +40,7 @@ const PropertySchema = new Schema(
     },
     amenities: [
       {
-        type: string,
+        type: String,
       },
     ],
     rates: {
